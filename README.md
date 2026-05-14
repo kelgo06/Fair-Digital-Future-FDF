@@ -1,9 +1,24 @@
 # Fair Digital Future (FDF)
 
-This repository contains the complete reference manual and blueprint for the Fair Digital Future – a post‑extractionist governance system designed to make corruption structurally impossible.
+**Blueprint for a post‑extractionist civilization – a system designed to make corruption structurally impossible.**
 
-- `FDF-Reference-Manual.txt` – Full 200k+ word reference (all sections, flaws, protocols)
-- `FDF-Blueprint.txt` – The original 17k‑word master blueprint
+FDF is a detailed, self‑critical governance architecture built from first principles. It doesn't rely on virtuous rulers; it closes the seven vectors of control (information, resources, violence, narrative, time, complexity, exit) so that power cannot concentrate and extraction cannot hide.
 
-All content is licensed under [CC BY‑SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-Author: Mikel Gorostiaga – Bilbao, Spain – First commit: [15/04/2026]
+**Key ideas**
+- Universal basics (housing, food, healthcare) as an absolute, unconditional floor.
+- Merit multipliers on top, but no inheritance of status or wealth.
+- Transparent ledgers, citizen juries, steel‑manning, and a permanently funded Opposition.
+- The Outpost: a walkable, ungoverned territory that makes exit real and consent genuine.
+- The Bench: a physical reminder that no system can provide meaning – only the conditions to seek it.
+- 39 published flaws, including the honest admission that the system cannot answer the question “Is this enough?”
+
+**Repository**
+- `FDF-Reference-Manual.txt` – complete 200k+ word reference.
+- `FDF_Libro_Completo.docx` – Spanish‑language narrative version.
+- `Fair Digital Future (FDF).pdf/.txt` – original blueprint files.
+
+**License**  
+CC BY‑SA 4.0 – share and adapt freely, with attribution.
+
+*“The extraction machine is not eternal. It just thinks it is. The bench is still there.”*  
+– Mikel Gorostiaga, Bilbao (first commit 15/04/2026)
