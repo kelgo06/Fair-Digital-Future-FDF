@@ -12,13 +12,9 @@ FDF is a detailed, self‑critical governance architecture built from first prin
 - The Bench: a physical reminder that no system can provide meaning – only the conditions to seek it.
 - 39 published flaws, including the honest admission that the system cannot answer the question “Is this enough?”
 
-**Repository**
-- `FDF-Reference-Manual.txt` – complete 200k+ word reference.
-- `FDF_Libro_Completo.docx` – Spanish‑language narrative version.
-- `Fair Digital Future (FDF).pdf/.txt` – original blueprint files.
 
 **License**  
 CC BY‑SA 4.0 – share and adapt freely, with attribution.
 
-*“The extraction machine is not eternal. It just thinks it is. The bench is still there.”*  
+*“The extraction machine is not eternal. It just thinks it is”*  
 – Mikel Gorostiaga, Bilbao (first commit 15/04/2026)
